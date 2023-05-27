@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TD3</string>
+    <string name="level">Niveau : 1</string>
+    <string name="score">Score : 0</string>
+    <string name="play">jouer</string>
+    <string name="restart">recommencer</string>
+    <string name="message">Felicitation ! Vous avez atteint un nouveau niveau</string>
+    <string name="menu1">Parametres</string>
+    <string name="menu2">quitter</string>
+    <string name="fontSizeSmallButton">petit</string>
+    <string name="fontSizeMeduimButton">moyen</string>
+    <string name="fontSizeBigButton">grand</string>
+</resources>

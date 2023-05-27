@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TD3</string>
+    <string name="level">Level : 1</string>
+    <string name="score">Score : 0</string>
+    <string name="play">play</string>
+    <string name="restart">restart</string>
+    <string name="message">Congratulations ! You\'ve reached a new level</string>
+    <string name="menu1">Settings</string>
+    <string name="menu2">exit</string>
+    <string name="fontSizeSmallButton">small</string>
+    <string name="fontSizeMeduimButton">meduim</string>
+    <string name="fontSizeBigButton">Large</string>
+</resources>
